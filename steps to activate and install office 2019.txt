@@ -1,0 +1,14 @@
+1.extract files from :- _Getintopc.com_Office_Professional_Plus_2019_11029.20079x64.rar (using 7zip application)
+password :- 123
+
+2. Extract files from :- Microsoft.Office_2016_2019_x64_Multilanguage_16.0.11029.20079.iso using 7zip (If system does not have 7 zip then can install 7 zip)
+3. Run : OInstall
+	Select : 2019
+	Install Office
+	
+	Note : this step does not need internet connection and can be done offline.
+
+4. Activating installed office :
+   rename : ActivateOffice2019.txt as ActivateOffice2019.cmd on desktop and run it AS ADMINISTRATOR.	
+
+	Note : This step must require internet connection.
